@@ -8,3 +8,5 @@ The core idea is:
 - **GPU path**: capture the desktop, feed it into Direct3D, and apply HLSL shaders in real time.
 
 This repository is useful for understanding how low-level rendering works without relying on high-level engines like Unity or Unreal.
+
+NOTE: This project isnt good, nor bad. Fork it and make it better if you want
